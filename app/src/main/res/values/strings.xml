@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplicando Estilos</string>
+    <string name="color">Color:</string>
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="estilo">Estilo:</string>
+    <string name="negrita">Negrita</string>
+    <string name="cursiva">Cursiva</string>
+    <string name="texto_de_prueba">Texto de prueba</string>
+    <string name="modo_obscuro">Modo Obscuro</string>
+    <string name="informaci_n_log">Información log</string>
+</resources>
